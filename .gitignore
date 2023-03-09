@@ -5,7 +5,7 @@ __pycache__
 .gitattributes
 !*.zip
 im.db
-rt.movie_info.tsv
-rt.reviews.tsv
-tmdb.movies.csv
+
+
+
 
